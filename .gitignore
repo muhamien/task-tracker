@@ -1,0 +1,9 @@
+# Binaries
+task-tracker
+
+# IDEs
+.idea/
+.vscode/
+
+# Application Data
+tasks.json
