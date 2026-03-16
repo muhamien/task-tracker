@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple Command-Line Interface (CLI) application built with Go to track and manage your daily tasks. It stores tasks in a local `tasks.json` file.
+A simple Command-Line Interface (CLI) application built with Go to track and manage your daily tasks. It stores tasks in a local `tasks.json` file. This project is a solution to the [Task Tracker](https://roadmap.sh/projects/task-tracker) backend challenge from roadmap.sh.
 
 ## Features
 
